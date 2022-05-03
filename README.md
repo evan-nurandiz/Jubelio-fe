@@ -2,6 +2,30 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Langkah Instalasi
+
+1. install node_modules
+```
+yarn install
+```
+
+2. set up env
+dengan contoh
+
+```
+REACT_APP_BACKEND_URL = http://localhost:1234
+REACT_APP_BACKEND_FILE_URL = http://localhost:1234/upload
+REACT_APP_BACKEND_TOKEN = inirahasia
+```
+
+3. langkah pengunaan website
+```
+1. register akun dahulu
+2. login akun
+3. untuk mengimport data dari elevania klik tombol fetch data from elevania
+tunggu sampai selesai
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
